@@ -3,6 +3,10 @@ p:not(#miasto){
 }
 
 div#linki>a:not(.last){
-    color:aquamarine;
+    color:coral;
 }
 
+
+div#linki a:nth-child(2){
+    background-color: aquamarine;
+}
