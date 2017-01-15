@@ -6,7 +6,7 @@ body{
 p{
     color: #ff0000;
 }
-#miasto,a{
+#miasto~p{
     color:pink;
 }
 
